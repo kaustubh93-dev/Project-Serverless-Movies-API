@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Lagaan",
+        "releaseYear": "2001",
+        "genre": "Drama, Musical, Sport",
+        "coverUrl": "https://kaustubhresumechallenge.blob.core.windows.net/movie-cover/Lagaan.jpg"
+    },
+    {
+        "title": "Gangs of Wasseypur",
+        "releaseYear": "2012",
+        "genre": "Action, Comedy, Crime",
+        "coverUrl": "https://kaustubhresumechallenge.blob.core.windows.net/movie-cover/Gangs_of_Wasseypur.jpg"
+    },
+    {
+        "title": "Rang De Basanti",
+        "releaseYear": "2006",
+        "genre": "Comedy, Crime, Drama",
+        "coverUrl": "https://kaustubhresumechallenge.blob.core.windows.net/movie-cover/Rang_De_Basanti.jpg"
+    },
+    {
+        "title": "Mughal-E-Azam",
+        "releaseYear": "1960",
+        "genre": "Drama, Romance, War",
+        "coverUrl": "https://kaustubhresumechallenge.blob.core.windows.net/movie-cover/Mughal-E-Azam.jpg"
+    },
+    {
+        "title": "3 Idiots",
+        "releaseYear": "2009",
+        "genre": "Comedy, Drama",
+        "coverUrl": "https://kaustubhresumechallenge.blob.core.windows.net/movie-cover/3_Idiots.jpg"
+    },
+    {
+        "title": "Sardar Udham",
+        "releaseYear": "2021",
+        "genre": "Biography, Crime, Drama",
+        "coverUrl": "https://kaustubhresumechallenge.blob.core.windows.net/movie-cover/Sardar_Udham.jpg"
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "releaseYear": "1994",
+        "genre": "Drama",
+        "coverUrl": "https://kaustubhresumechallenge.blob.core.windows.net/movie-cover/The_Shawshank_Redemption.jpg"
+    },
+    {
+        "title": "The Godfather",
+        "releaseYear": "1972",
+        "genre": "Crime, Drama",
+        "coverUrl": "https://kaustubhresumechallenge.blob.core.windows.net/movie-cover/The_Godfather.jpg"
+    },
+    {
+        "title": "The Dark Knight",
+        "releaseYear": "2008",
+        "genre": "Action, Crime, Drama",
+        "coverUrl": "https://kaustubhresumechallenge.blob.core.windows.net/movie-cover/The_Dark_Knight.jpg"
+    },
+    {
+        "title": "Pulp Fiction",
+        "releaseYear": "1994",
+        "genre": "Crime, Drama",
+        "coverUrl": "https://kaustubhresumechallenge.blob.core.windows.net/movie-cover/Pulp_Fiction.jpg"
+    }
+]
