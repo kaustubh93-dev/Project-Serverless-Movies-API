@@ -6,8 +6,8 @@ from azure.cosmos import CosmosClient, exceptions
 endpoint = os.environ['COSMOS_ENDPOINT']
 key = os.environ['COSMOS_KEY']
 client = CosmosClient(endpoint, key)
-database_name = 'MoviesDatabase'
-container_name = 'MoviesContainer'
+database_name = 'Movies Database'
+container_name = 'moviesapi-cosmosdb'
 database = client.get_database_client(database_name)
 container = database.get_container_client(container_name)
 
