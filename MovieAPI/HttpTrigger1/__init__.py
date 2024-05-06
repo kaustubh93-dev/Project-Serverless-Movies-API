@@ -16,7 +16,6 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
         # Query that selects only the necessary attributes
         query = "SELECT c.title, c.releaseYear, c.genre, c.coverUrl FROM c"
         items = list(container.query_items(query=query, enable_cross_partition_query=True))
-
         # Prepare the result to include only the specified fields
         result = [
             {"title": item["title"], "releaseYear": item["releaseYear"],
